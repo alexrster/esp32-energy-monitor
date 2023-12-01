@@ -1,0 +1,3 @@
+[submodule "src/lv_drivers"]
+	path = src/lv_drivers
+	url = https://github.com/lvgl/lvgl_esp32_drivers.git
